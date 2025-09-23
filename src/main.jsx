@@ -3,7 +3,6 @@ import { createRoot } from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router'
 import './assets/style/main.css'
 import "bootstrap"
-import App from './App.jsx'
 import Layout from './components/layout/Layout.jsx'
 import Home from './pages/home/Home.jsx'
 import ListUsers from './pages/user/ListUser.jsx'
